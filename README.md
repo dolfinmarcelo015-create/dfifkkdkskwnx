@@ -1,6 +1,6 @@
 # dfifkkdkskwnx
 ---
-title: Tipo AI Clone
+title: AI Clone
 emoji: 🤖
 colorFrom: black
 colorTo: white
